@@ -15,4 +15,4 @@
 - [Skype](https://askubuntu.com/questions/7498/how-do-i-install-skype/932189#932189) - for 64 bits Ubuntu
 - [GitKraken](https://www.gitkraken.com/) - 使用 GitHub student pack 可以免費使用 PRO 版
 - [indicator-multiload](http://www.noobslab.com/2012/02/install-indicator-multiload-in-ubuntu.html) - 在狀態列顯示系統狀態長條圖
-- [fail2ban](http://www.shunze.info/forum/thread.php?threadid=1889&boardid=3&sid=e1e02be23bf8adf2ba4bf92be652791b) - 阻擋暴力破解密碼
+- [fail2ban](http://www.shunze.info/forum/thread.php?threadid=1889&boardid=3&sid=e1e02be23bf8adf2ba4bf92be652791b) - 阻擋暴力破解密碼
