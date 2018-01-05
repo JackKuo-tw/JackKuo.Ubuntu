@@ -17,3 +17,4 @@
 - [indicator-multiload](http://www.noobslab.com/2012/02/install-indicator-multiload-in-ubuntu.html) - 在狀態列顯示系統狀態長條圖
 - [fail2ban](http://www.shunze.info/forum/thread.php?threadid=1889&boardid=3&sid=e1e02be23bf8adf2ba4bf92be652791b) - 阻擋暴力破解密碼
  - [MySQL編碼修改](http://stackoverflow.max-everyday.com/2017/08/mysql-etcmy-cnf/)
+ - [Shadowsocks server](https://gist.github.com/nathanielove/40c1dcac777e64ceeb63d8296d263d6d)
