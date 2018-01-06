@@ -18,3 +18,4 @@
 - [fail2ban](http://www.shunze.info/forum/thread.php?threadid=1889&boardid=3&sid=e1e02be23bf8adf2ba4bf92be652791b) - 阻擋暴力破解密碼
  - [MySQL編碼修改](http://stackoverflow.max-everyday.com/2017/08/mysql-etcmy-cnf/)
  - [Shadowsocks server](https://gist.github.com/nathanielove/40c1dcac777e64ceeb63d8296d263d6d)
+ - [Set proxy for terminal](http://www.webupd8.org/2010/10/how-to-set-proxy-for-terminal-quick.html)
