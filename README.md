@@ -19,3 +19,4 @@
  - [MySQL編碼修改](http://stackoverflow.max-everyday.com/2017/08/mysql-etcmy-cnf/)
  - [Shadowsocks server](https://gist.github.com/nathanielove/40c1dcac777e64ceeb63d8296d263d6d)
  - [Set proxy for terminal](http://www.webupd8.org/2010/10/how-to-set-proxy-for-terminal-quick.html)
+ - [typora](https://typora.io/) - 跨平台 Markdown 編輯器
