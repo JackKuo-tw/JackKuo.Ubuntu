@@ -20,3 +20,4 @@
  - [Shadowsocks server](https://gist.github.com/nathanielove/40c1dcac777e64ceeb63d8296d263d6d)
  - [Set proxy for terminal](http://www.webupd8.org/2010/10/how-to-set-proxy-for-terminal-quick.html)
  - [typora](https://typora.io/) - 跨平台 Markdown 編輯器
+ - [LibreOffice ppa] - `sudo add-apt-repository ppa:libreoffice/ppa`
