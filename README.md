@@ -8,6 +8,18 @@ alias open="nautilus"
 alias oo="xdg-open"
 ```
 
+### 改密碼
+`echo "username:newpass"|chpasswd`
+
+### 處理器數量
+`nproc`
+
+### 將 docx 轉成 純文字
+`unzip -p some.docx word/document.xml | sed -e 's/<[^>]\{1,\}>//g; s/[^[:print:]]\{1,\}//g'`
+
+### SSh Tunnel
+`ssh 10.21.20.128 -o "ProxyCommand=nc -X connect -x 127.0.0.1:1080 %h %p"`
+
 ## Ubuntu 安裝筆記
 
 - [TeamViewer](https://askubuntu.com/questions/362951/installed-teamviewer-using-a-64-bit-system-but-i-get-a-dependency-error/363083#363083)
