@@ -1,5 +1,13 @@
 # JackKuo.Ubuntu
 
+## Ubuntu 實用指令
+
+```
+# in your .bashrc/.zshrc
+alias open="nautilus"
+alias oo="xdg-open"
+```
+
 ## Ubuntu 安裝筆記
 
 - [TeamViewer](https://askubuntu.com/questions/362951/installed-teamviewer-using-a-64-bit-system-but-i-get-a-dependency-error/363083#363083)
